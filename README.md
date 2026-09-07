@@ -1,10 +1,5 @@
 <picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/dark.svg">
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg">
-<img alt="YOUR NAME" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/
-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="vinaysingh282006's GitHub profile" src="dark_mode.svg" />
 </picture>
-
-
